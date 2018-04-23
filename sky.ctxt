@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=sky
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=sky()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ bg.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ tambah()
+comment4.params=
+comment4.target=void\ tambah10()
+comment5.params=
+comment5.target=void\ selesai()
+comment5.text=\r\n\ Called\ when\ game\ is\ up.\ Stop\ running\ and\ display\ score.\r\n
+numComments=6
